@@ -28,6 +28,18 @@ Open `http://localhost:3000`. Keep the existing Dev Tunnel forwarding local port
 - `/health` - uncached JSON health and request diagnostics
 - `/benchmark?iterations=100000` - bounded SHA-256 workload (1,000 to 500,000 iterations)
 
+## Dev Tunnel Screenshots
+
+Open the live [Dev Tunnel](https://ngddb3bq-3000.aue01.devtunnels.ms/), which forwards to local port `3000`. GitHub sign-in may be required to access the tunnel.
+
+Desktop view:
+
+![Dashboard on desktop](docs/screenshots/dashboard-desktop.png)
+
+Mobile view:
+
+![Dashboard on mobile](docs/screenshots/dashboard-mobile.png)
+
 ## Tests
 
 ```powershell
