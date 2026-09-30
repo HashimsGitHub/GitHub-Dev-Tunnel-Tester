@@ -34,11 +34,7 @@ Open the live [Dev Tunnel](https://ngddb3bq-3000.aue01.devtunnels.ms/), which fo
 
 Desktop view:
 
-![Dashboard on desktop](docs/screenshots/dashboard-desktop.png)
-
-Mobile view:
-
-![Dashboard on mobile](docs/screenshots/dashboard-mobile.png)
+<img width="1260" height="897" alt="image" src="https://github.com/user-attachments/assets/7854e501-eb04-482e-aae4-57d4c4b95e92" />
 
 ## Tests
 
